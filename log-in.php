@@ -13,7 +13,7 @@
 <body>
 	<div class="split left">
 		<div id="header">
-			<h1>Orbit Store</h1>
+			<h1>XYT Company</h1>
 		<div id="subtitlediv">
 			<h3>The most trusted game store, like, ever. </h3>
 			<p><h3>50 Million games, I promise.</h3></p>
